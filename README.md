@@ -22,8 +22,8 @@ This project dives into **8 popular YouTube channels** in the Data Science & Ana
 ## 🚀 How to Use
 
 1. Clone this repo  
-2. Open the Jupyter notebook (`notebooks/youtube_analysis.ipynb`) to explore the full data pipeline  
-3. Review the cleaned datasets in `/data/` (ready for analysis or visualization)  
+2. Open the Jupyter notebook (`youtube_analysis.ipynb`) to explore the full data pipeline  
+3. Review the cleaned datasets (ready for analysis or visualization)  
 4. Open the Tableau workbook or view the dashboard live on Tableau Public  
 
 
